@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.6.27)  10 SEP 2019 11:41
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.6.27)  10 SEP 2019 11:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1257,9 +1257,7 @@ LaTeX Font Info:    Try loading font information for U+zavm on input line 78.
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 ) [1
 
-] [1]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 123.
- [2]
+] [1] [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
  (./main.aux)
@@ -1270,12 +1268,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 34011 strings out of 492909
- 667525 string characters out of 6132923
- 743118 words of memory out of 5000000
- 37598 multiletter control sequences out of 15000+600000
+ 33902 strings out of 492909
+ 664993 string characters out of 6132923
+ 740971 words of memory out of 5000000
+ 37489 multiletter control sequences out of 15000+600000
  546275 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,8n,81p,1198b,978s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,81p,1198b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (3 pages, 57960 bytes).
+Output written on main.xdv (3 pages, 55488 bytes).
